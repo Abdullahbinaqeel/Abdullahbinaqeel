@@ -46,24 +46,6 @@
 
 ## Portfolio & Profile
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Abdullah%20B.%20Aqeel&fontSize=50&fontColor=58A6FF&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%26+AI+Developer;Specializing+in+Next.js+%2B+Deep+Learning;Building+the+Future+of+Legal-Tech" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-abdul575%40hotmail.com-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Phone-%2B92%20321%2066%2044%20106-0D1117?style=for-the-badge&logo=whatsapp&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Location-Faisalabad%2C%20PK-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF" />
-</p>
-
----
-
 ### Currently Working On
 * **Insaf:** Spearheading an AI-powered legal-tech ecosystem to democratize legal access in Pakistan by bridging the gap between legal professionals and citizens through digital accessibility.
 * **VoxLift AI:** Engineering an AI-powered speech therapy aid for communication rehabilitation.
