@@ -43,7 +43,63 @@
 
 ---
 # About Me:
-I’m currently working on Insaf, a legal-tech platform aimed at bridging the gap between lawyers and clients in Pakistan through digital accessibility.<br>I’m looking to collaborate on Full-stack applications built with Next.js, React Native, React.js, and FastAPI. I am particularly interested in open-source projects involving RAG (Retrieval-Augmented Generation), LangChain, and Computer Vision pipelines using YOLOv8 and ResNet50. I can also contribute to system architecture requiring Docker, PostgreSQL, and Redis for scalable, high-performance backends.<br>I’m looking for help with Architecting microservices using Kubernetes and implementing event-driven systems for industry-level scalability. I am looking to deepen my knowledge of MLOps—specifically model deployment, monitoring, and A/B testing for Generative AI. Additionally, I am interested in learning enterprise-grade security protocols for SaaS platforms and optimizing WebRTC for low-latency, real-time communication in AI-driven tools.<br>I’m currently learning<br>Ask me about Cross-platform mobile development with Expo, building AI wrappers for niche industries, or forensic image analysis using Deep Learning. You can also ask me about my research on Skin Cancer Detection using CNNs, my experience with ICPC competitive programming, or how I built a production-scale AI courseware platform with WebRTC.<br>Fun fact Round 1 winner International Collegiate Programming Competition 2024-25 (ICPC), Winner Ignite AI Wrapper 2026, Winner GDGoC LeetCode Challenge (Google Developer Club)<br>Skills C++, C#, Python, SQL, JavaScript, ES6+, No-SQL, MongoDB, Firebase, React, React Native, Next.js, Express.js, Node.js, Flask, FastAPI, Tailwind CSS, Redux, Docker, AWS, Git, GitHub, CI/CD Pipelines, PostgreSQL, Redis, Linux, Ubuntu, LangChain, OpenAI API, RAG Pipelines, BERT, GPT, YOLOv8, ResNet50, TensorFlow, PyTorch, Hadoop, WebRTC
+
+## Portfolio & Profile
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Abdullah%20B.%20Aqeel&fontSize=50&fontColor=58A6FF&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%26+AI+Developer;Specializing+in+Next.js+%2B+Deep+Learning;Building+the+Future+of+Legal-Tech" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-abdul575%40hotmail.com-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Phone-%2B92%20321%2066%2044%20106-0D1117?style=for-the-badge&logo=whatsapp&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Location-Faisalabad%2C%20PK-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF" />
+</p>
+
+---
+
+### Currently Working On
+* **Insaf:** Spearheading an AI-powered legal-tech ecosystem to democratize legal access in Pakistan by bridging the gap between legal professionals and citizens through digital accessibility.
+* **VoxLift AI:** Engineering an AI-powered speech therapy aid for communication rehabilitation.
+
+### Looking to Collaborate On
+* **Full-Stack Ecosystems:** High-performance applications utilizing **Next.js, React Native, and FastAPI**.
+* **Applied AI:** Open-source initiatives involving **RAG (Retrieval-Augmented Generation)**, **LangChain**, and **Computer Vision** pipelines (YOLOv8, ResNet50).
+* **System Architecture:** Scalable backend development requiring **Docker, PostgreSQL, and Redis** for high-concurrency environments.
+
+### Looking for Help With
+* **Cloud Infrastructure:** Architecting **Microservices via Kubernetes** and implementing robust **event-driven systems** for industry-level scalability.
+* **MLOps Lifecycle:** Deepening expertise in model deployment, real-time monitoring, and **A/B testing** for Generative AI applications.
+* **Security & Comms:** Implementing enterprise-grade security protocols for SaaS and optimizing **WebRTC** for low-latency, real-time AI interactions.
+
+### Ask Me About
+* **Mobile & AI Wrappers:** Cross-platform development with **Expo** and architecting specialized AI solutions for niche industries.
+* **Deep Learning Research:** Forensic image analysis, Skin Cancer Detection using CNNs, and building production-scale AI platforms with **WebRTC**.
+* **Competitive Programming:** Experience and strategies for the **ICPC** and algorithmic problem-solving.
+
+### Professional Highlights
+* **Round 1 Winner:** International Collegiate Programming Contest (ICPC) 2024-25.
+* **Winner:** Ignite AI Wrapper 2026.
+* **Winner:** GDGoC LeetCode Challenge (Google Developer Club).
+
+---
+
+### Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,react,nextjs,nodejs,express,flask,fastapi,mongodb,postgres,redis,docker,aws,github,pytrough,tensorflow,linux" />
+</p>
+
+* **Languages:** C++, C#, Python, SQL, JavaScript (ES6+), No-SQL.
+* **Frameworks & Web:** React, React Native, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Redux.
+* **AI & Data:** LangChain, OpenAI API, RAG Pipelines, BERT, GPT, YOLOv8, ResNet50, TensorFlow, PyTorch, Hadoop.
+* **DevOps & Tools:** Docker, AWS, Git, GitHub, CI/CD Pipelines, PostgreSQL, Redis, Linux, Ubuntu, WebRTC, MongoDB, Firebase.
 
 
 ## Socials:
