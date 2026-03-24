@@ -72,12 +72,6 @@
 
 ---
 
-### Technical Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,react,nextjs,nodejs,express,flask,fastapi,mongodb,postgres,redis,docker,aws,github,pytrough,tensorflow,linux" />
-</p>
-
 * **Languages:** C++, C#, Python, SQL, JavaScript (ES6+), No-SQL.
 * **Frameworks & Web:** React, React Native, Next.js, Node.js, Express.js, Flask, FastAPI, Tailwind CSS, Redux.
 * **AI & Data:** LangChain, OpenAI API, RAG Pipelines, BERT, GPT, YOLOv8, ResNet50, TensorFlow, PyTorch, Hadoop.
