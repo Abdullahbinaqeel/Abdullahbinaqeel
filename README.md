@@ -32,6 +32,9 @@
 * **Award-Winning Development:** Recognized as the winner of the **Ignite AI Wrapper 2026** and the **GDGoC LeetCode Challenge**.
 
 ---
+# About Me:
+
+## Portfolio & Profile
 
 ###  **Technical Stack**
 
@@ -42,9 +45,6 @@
 > **Ask Me About:** AI wrappers for niche industries, forensic deep learning, or scaling automated code evaluation systems.
 
 ---
-# About Me:
-
-## Portfolio & Profile
 
 ### Currently Working On
 * **Insaf:** Spearheading an AI-powered legal-tech ecosystem to democratize legal access in Pakistan by bridging the gap between legal professionals and citizens through digital accessibility.
