@@ -16,7 +16,7 @@
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20"/> **Executive Summary**
+### **Executive Summary**
 
 * **Current Initiative:** Leading the development of **Insaf**, a legal-tech ecosystem leveraging AI to bridge the accessibility gap between legal professionals and the public in Pakistan.
 * **Strategic Collaboration:** Seeking opportunities in **Full-Stack Engineering** (Next.js, React Native, FastAPI) and **Applied AI** involving RAG pipelines, LangChain, and Computer Vision (YOLOv8/ResNet50).
@@ -25,7 +25,7 @@
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/3135/3135823.png" width="20"/> **Core Expertise**
+### **Core Expertise**
 
 * **Mobile & Real-Time Systems:** Architecting cross-platform apps with **Expo** and integrating **WebRTC** for low-latency communication in production AI environments.
 * **Competitive Programming:** **Round 1 Winner** of the International Collegiate Programming Contest (ICPC) 2024–25.
@@ -33,10 +33,10 @@
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="20"/> **Technical Stack**
+###  **Technical Stack**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,react,nextjs,nodejs,express,flask,fastapi,mongodb,postgres,redis,docker,aws,github,pytrough,tensorflow,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,react,nextjs,nodejs,express,flask,fastapi,mongodb,postgres,redis,docker,aws,github,pytorch,tensorflow,linux" />
 </p>
 
 > **Ask Me About:** AI wrappers for niche industries, forensic deep learning, or scaling automated code evaluation systems.
